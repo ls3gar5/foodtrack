@@ -1,0 +1,516 @@
+{
+  "pbtResults": {
+    "2.3 Write property tests for ingestion validation (Properties 11, 12, 13)": {
+      "status": "passed",
+      "lastRunTimestamp": 1782842775377
+    },
+    "4.6 Write property tests for search service (Properties 1-6)": {
+      "status": "passed",
+      "lastRunTimestamp": 1782843347874
+    },
+    "4.7 Write property tests for validation and caching (Properties 7-10, 14-15)": {
+      "status": "passed",
+      "lastRunTimestamp": 1782843534000
+    },
+    "6.7 Write frontend component and formatting tests": {
+      "status": "passed",
+      "lastRunTimestamp": 1782844243527
+    }
+  },
+  "executionHistory": {
+    "1.1 Create PostGIS migration and Facility entity": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814112
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840826123
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782841519722
+      }
+    ],
+    "2.1 Create the Facility module and IngestionService": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814251
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782841524204
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842163745
+      }
+    ],
+    "2.2 Create BullMQ ingestion processor": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814329
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842169443
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842444182
+      }
+    ],
+    "2.3 Write property tests for ingestion validation (Properties 11, 12, 13)": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814394
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842451048
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842796359
+      }
+    ],
+    "2.4 Write unit tests for IngestionService": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814435
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842451789
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842797201
+      }
+    ],
+    "3. Checkpoint - Ensure ingestion tests pass": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814477
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845118663
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845180612
+      }
+    ],
+    "4.1 Create DTOs and validation classes": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814524
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782841525044
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842164577
+      }
+    ],
+    "4.2 Create FacilityService with PostGIS queries": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814567
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842170127
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842445069
+      }
+    ],
+    "4.3 Create FacilityCacheService with Redis": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814604
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842171005
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842446026
+      }
+    ],
+    "4.4 Create FacilityController with Swagger annotations": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814646
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842452633
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842798111
+      }
+    ],
+    "4.5 Create FacilityModule and register in AppModule": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814689
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842804216
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843557317
+      }
+    ],
+    "4.6 Write property tests for search service (Properties 1-6)": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814770
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842804977
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843558424
+      }
+    ],
+    "4.7 Write property tests for validation and caching (Properties 7-10, 14-15)": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814830
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842805854
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843559472
+      }
+    ],
+    "4.8 Write unit tests for FacilityController and FacilityCacheService": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814902
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842806684
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843560510
+      }
+    ],
+    "5. Checkpoint - Ensure BFF tests pass": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814950
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845186412
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845248144
+      }
+    ],
+    "6.1 Create API client and TypeScript types": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840814998
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842453438
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842799024
+      }
+    ],
+    "6.2 Create custom hooks for search and geocoding": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815059
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842807649
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843561387
+      }
+    ],
+    "6.3 Create SearchInput component": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815119
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843571695
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844112438
+      }
+    ],
+    "6.4 Create MapView and FacilityMarker components": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815245
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843572412
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844113102
+      }
+    ],
+    "6.5 Create ResultsList and ResultCard components": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815301
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843573235
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844113892
+      }
+    ],
+    "6.6 Create FoodTruckLocator page component and wire together": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815360
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844119624
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844417253
+      }
+    ],
+    "6.7 Write frontend component and formatting tests": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815405
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844120284
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844418231
+      }
+    ],
+    "7. Checkpoint - Ensure frontend tests pass": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815502
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845252972
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845313992
+      }
+    ],
+    "8.1 Update Docker Compose for PostGIS and Redis": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815559
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844423378
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844920602
+      }
+    ],
+    "8.2 Add route and navigation for Food Truck Locator page": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815647
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844424118
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844921335
+      }
+    ],
+    "8.3 Write integration tests for PostGIS queries": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815711
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844927860
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845108730
+      }
+    ],
+    "9. Final checkpoint - Ensure all tests pass": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782840815770
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845318838
+      },
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845585429
+      }
+    ],
+    "1. Database setup and entity definition": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782841519783
+      }
+    ],
+    "2. Data ingestion service (apps/back)": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782842797306
+      }
+    ],
+    "4. BFF facility search and detail API (apps/bff)": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782843560578
+      }
+    ],
+    "6. Frontend food truck locator feature (apps/front)": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782844418319
+      }
+    ],
+    "8. Integration and wiring": [
+      {
+        "executionId": "df322b86-8341-4fb1-95c0-563561cf2e88",
+        "chatSessionId": "sess_b9aba98a-c9e4-4d84-bf9b-c0562863ed73",
+        "timestamp": 1782845108837
+      }
+    ]
+  }
+}

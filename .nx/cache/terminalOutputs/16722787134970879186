@@ -1,0 +1,108 @@
+[1m[2mDetermining test suites to run...[22m[22m[999D[K
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mTest suite failed to run
+
+    ReferenceError: Cannot access 'IngestionService' before initialization
+
+    [0m [90m  6 |[39m [36mimport[39m { [33mFacilityEntity[39m } [36mfrom[39m [32m'./facility.entity'[39m
+     [90m  7 |[39m [36mimport[39m { [33mREDIS_CLIENT[39m } [36mfrom[39m [32m'./facility.module'[39m
+    [31m[1m>[22m[39m[90m  8 |[39m
+     [90m    |[39m [31m[1m^[22m[39m
+     [90m  9 |[39m [36mexport[39m [36minterface[39m [33mSodaRecord[39m {
+     [90m 10 |[39m   objectid[33m:[39m string
+     [90m 11 |[39m   applicant[33m:[39m string[0m
+
+      [2mat Object.get [as IngestionService] ([22msrc/facility/ingestion.service.ts[2m:8:9)[22m
+      [2mat Object.<anonymous> ([22msrc/facility/ingestion.processor.ts[2m:55:34)[22m
+      [2mat Object.<anonymous> ([22msrc/facility/facility.module.ts[2m:25:29)[22m
+      [2mat Object.<anonymous> ([22msrc/facility/ingestion.service.ts[2m:17:25)[22m
+      [2mat Object.<anonymous> ([22m[0m[36msrc/facility/ingestion.service.property.spec.ts[39m[0m[2m:6:27)[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[31m FAIL [39m[22m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A  [1m● [22mTest suite failed to run
+
+    ReferenceError: Cannot access 'IngestionService' before initialization
+
+    [0m [90m  6 |[39m [36mimport[39m { [33mFacilityEntity[39m } [36mfrom[39m [32m'./facility.entity'[39m
+     [90m  7 |[39m [36mimport[39m { [33mREDIS_CLIENT[39m } [36mfrom[39m [32m'./facility.module'[39m
+    [31m[1m>[22m[39m[90m  8 |[39m
+     [90m    |[39m [31m[1m^[22m[39m
+     [90m  9 |[39m [36mexport[39m [36minterface[39m [33mSodaRecord[39m {
+     [90m 10 |[39m   objectid[33m:[39m string
+     [90m 11 |[39m   applicant[33m:[39m string[0m
+
+      [2mat Object.get [as IngestionService] ([22msrc/facility/ingestion.service.ts[2m:8:9)[22m
+      [2mat Object.<anonymous> ([22msrc/facility/ingestion.processor.ts[2m:55:34)[22m
+      [2mat Object.<anonymous> ([22msrc/facility/facility.module.ts[2m:25:29)[22m
+      [2mat Object.<anonymous> ([22msrc/facility/ingestion.service.ts[2m:17:25)[22m
+      [2mat Object.<anonymous> ([22m[0m[36msrc/facility/ingestion.service.spec.ts[39m[0m[2m:9:27)[22m
+
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[999D[K[1mTest Suites: [22m[1m[31m2 failed[39m[22m, [1m[32m1 passed[39m[22m, 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0.889 s
+[2mRan all test suites[22m[2m matching [22m/i|n|g|e|s|t|i|o|n|.|s|e|r|v|i|c|e|.|p|r|o|p|e|r|t|y/i[2m.[22m

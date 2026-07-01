@@ -1,0 +1,29 @@
+{
+  "name": "back",
+  "root": "apps/back",
+  "sourceRoot": "apps/back/src",
+  "targets": {
+    "build": {
+      "executor": "@nx/webpack:webpack",
+      "outputs": ["{options.outputPath}"],
+      "options": {
+        "outputPath": "dist/apps/back",
+        "main": "apps/back/src/main.ts",
+        "tsConfig": "apps/back/tsconfig.json"
+      }
+    },
+    "serve": {
+      "executor": "@nx/js:node",
+      "options": {
+        "buildTarget": "back:build"
+      }
+    },
+    "test": {
+      "executor": "@nx/jest:jest",
+      "outputs": ["{workspaceRoot}/coverage/apps/back"],
+      "options": {
+        "jestConfig": "apps/back/jest.config.js"
+      }
+    }
+  }
+}

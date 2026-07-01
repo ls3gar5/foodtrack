@@ -1,0 +1,515 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.6.11",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".kiro/specs/food-truck-locator/design.md",
+        "hash": "3734733251656096317"
+      },
+      {
+        "file": ".kiro/specs/food-truck-locator/.config.kiro",
+        "hash": "5359211732581635148"
+      },
+      {
+        "file": ".kiro/steering/structure.md",
+        "hash": "3424701245857506879"
+      },
+      {
+        "file": ".env.example",
+        "hash": "11698995510232610868"
+      },
+      {
+        "file": ".kiro/specs/food-truck-locator/tasks.md",
+        "hash": "269766597978398001"
+      },
+      {
+        "file": "docker-compose.yml",
+        "hash": "12340458386770624873"
+      },
+      {
+        "file": "nx.json",
+        "hash": "1132752945439744087"
+      },
+      {
+        "file": ".kiro/specs/food-truck-locator/requirements.md",
+        "hash": "8469682903321867418"
+      },
+      {
+        "file": ".kiro/steering/tech.md",
+        "hash": "3930090282930313879"
+      },
+      {
+        "file": ".kiro/steering/product.md",
+        "hash": "14682244064993620004"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "9364472620166944001"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "233408673872616596"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "311518979541333582"
+      },
+      {
+        "file": ".kiro/specs/food-truck-locator/tasks.meta.json",
+        "hash": "5104085923720898672"
+      },
+      {
+        "file": "jest.preset.js",
+        "hash": "6827884108567106429"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "6093914340072391811"
+      },
+      {
+        "file": "package.json",
+        "hash": "9246133269469612733"
+      },
+      {
+        "file": ".kiro/steering/DOCKER-POSTGRES-BEST-PRACTICES.md",
+        "hash": "17087858313521058104"
+      }
+    ],
+    "projectFileMap": {
+      "bff": [
+        {
+          "file": "apps/bff/.swcrc",
+          "hash": "10712580504856075276"
+        },
+        {
+          "file": "apps/bff/jest.config.js",
+          "hash": "18119313658480953939"
+        },
+        {
+          "file": "apps/bff/project.json",
+          "hash": "7132464463199188972"
+        },
+        {
+          "file": "apps/bff/src/app.module.ts",
+          "hash": "15036679578237040861",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/typeorm"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/dto/facility-detail-response.dto.ts",
+          "hash": "17628610471323169176",
+          "deps": [
+            "npm:@nestjs/swagger"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/dto/facility-response.dto.ts",
+          "hash": "7173268175111415727",
+          "deps": [
+            "npm:@nestjs/swagger"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/dto/index.ts",
+          "hash": "15898613425191755622"
+        },
+        {
+          "file": "apps/bff/src/facility/dto/search-facilities.dto.spec.ts",
+          "hash": "9901218258180178799",
+          "deps": [
+            "npm:class-validator",
+            "npm:class-transformer"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/dto/search-facilities.dto.ts",
+          "hash": "15267305363060166018",
+          "deps": [
+            "npm:class-transformer",
+            "npm:class-validator",
+            "npm:@nestjs/swagger"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility-cache.service.spec.ts",
+          "hash": "2888088203170784796",
+          "deps": [
+            "npm:@nestjs/testing"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility-cache.service.ts",
+          "hash": "8343758304887587681",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:ioredis"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.controller.spec.ts",
+          "hash": "13472418338588748317",
+          "deps": [
+            "npm:@nestjs/testing",
+            "npm:@nestjs/common"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.controller.ts",
+          "hash": "6331017818406132609",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/swagger"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.entity.ts",
+          "hash": "12465556492031141632",
+          "deps": [
+            "npm:typeorm",
+            "npm:@types/geojson"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.integration.spec.ts",
+          "hash": "6239916933388159991",
+          "deps": [
+            "npm:@nestjs/testing",
+            "npm:@nestjs/typeorm"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.module.ts",
+          "hash": "14748770864532685946",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/typeorm",
+            "npm:ioredis"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.property.spec.ts",
+          "hash": "6619844632566365512",
+          "deps": [
+            "npm:fast-check",
+            "npm:class-validator",
+            "npm:class-transformer",
+            "npm:@nestjs/testing",
+            "npm:@nestjs/typeorm"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.service.property.spec.ts",
+          "hash": "12212322917476180283",
+          "deps": [
+            "npm:fast-check",
+            "npm:@nestjs/testing",
+            "npm:@nestjs/typeorm"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.service.spec.ts",
+          "hash": "4878477880349197570",
+          "deps": [
+            "npm:@nestjs/testing",
+            "npm:@nestjs/typeorm"
+          ]
+        },
+        {
+          "file": "apps/bff/src/facility/facility.service.ts",
+          "hash": "16548550774911815037",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/typeorm",
+            "npm:typeorm"
+          ]
+        },
+        {
+          "file": "apps/bff/src/main.ts",
+          "hash": "1198970828590341501",
+          "deps": [
+            "npm:@nestjs/core",
+            "npm:@nestjs/common",
+            "npm:@nestjs/swagger"
+          ]
+        },
+        {
+          "file": "apps/bff/tsconfig.json",
+          "hash": "1583001853710917250"
+        }
+      ],
+      "front": [
+        {
+          "file": "apps/front/jest.config.js",
+          "hash": "718870190305338266"
+        },
+        {
+          "file": "apps/front/project.json",
+          "hash": "1558123573227261537"
+        },
+        {
+          "file": "apps/front/src/App.spec.tsx",
+          "hash": "15627853166483326348",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/App.tsx",
+          "hash": "2757678875873252523",
+          "deps": [
+            "npm:react",
+            "npm:react-router-dom",
+            "npm:react-query"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/FoodTruckLocator.spec.tsx",
+          "hash": "16542985665936783735",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/FoodTruckLocator.tsx",
+          "hash": "13425403566208332438",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/FacilityMarker.tsx",
+          "hash": "11853204627733200824",
+          "deps": [
+            "npm:react",
+            "npm:react-leaflet",
+            "npm:leaflet"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/MapLegend.tsx",
+          "hash": "6643314759048154431",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/MapView.tsx",
+          "hash": "4416123221000537786",
+          "deps": [
+            "npm:react",
+            "npm:react-leaflet",
+            "npm:leaflet"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/ResultCard.spec.tsx",
+          "hash": "15724659970793274396",
+          "deps": [
+            "npm:fast-check"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/ResultCard.tsx",
+          "hash": "12353285275282274674",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/ResultsList.tsx",
+          "hash": "10608401101200057894",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/SearchInput.spec.tsx",
+          "hash": "9936246073564864032",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/components/SearchInput.tsx",
+          "hash": "16533776559044714630",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/hooks/index.ts",
+          "hash": "18338323223570164833"
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/hooks/useFacilityDetail.ts",
+          "hash": "5190272824356339189",
+          "deps": [
+            "npm:react-query"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/hooks/useFacilitySearch.ts",
+          "hash": "396300153150019457",
+          "deps": [
+            "npm:react-query"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/hooks/useGeocoding.ts",
+          "hash": "9999547682373697823",
+          "deps": [
+            "npm:react"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/services/facilityApi.ts",
+          "hash": "18346989430657150109",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/front/src/features/food-truck-locator/types/facility.types.ts",
+          "hash": "13574442642454236541"
+        },
+        {
+          "file": "apps/front/src/main.tsx",
+          "hash": "5758288257124588294",
+          "deps": [
+            "npm:react",
+            "npm:react-dom"
+          ]
+        },
+        {
+          "file": "apps/front/src/router.tsx",
+          "hash": "9907276976032374732",
+          "deps": [
+            "npm:react",
+            "npm:react-router-dom"
+          ]
+        },
+        {
+          "file": "apps/front/tsconfig.json",
+          "hash": "10783417898665351464"
+        }
+      ],
+      "back": [
+        {
+          "file": "apps/back/.swcrc",
+          "hash": "10712580504856075276"
+        },
+        {
+          "file": "apps/back/jest.config.js",
+          "hash": "15943508263580417590"
+        },
+        {
+          "file": "apps/back/project.json",
+          "hash": "8656072964556150965"
+        },
+        {
+          "file": "apps/back/src/app.module.ts",
+          "hash": "13906526389325913792",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/typeorm",
+            "npm:@nestjs/bullmq"
+          ]
+        },
+        {
+          "file": "apps/back/src/config/typeorm.config.ts",
+          "hash": "9007574371020580689",
+          "deps": [
+            "npm:typeorm"
+          ]
+        },
+        {
+          "file": "apps/back/src/facility/constants.ts",
+          "hash": "16358171780620499115"
+        },
+        {
+          "file": "apps/back/src/facility/facility.entity.spec.ts",
+          "hash": "10311932912520621143"
+        },
+        {
+          "file": "apps/back/src/facility/facility.entity.ts",
+          "hash": "12465556492031141632",
+          "deps": [
+            "npm:typeorm",
+            "npm:@types/geojson"
+          ]
+        },
+        {
+          "file": "apps/back/src/facility/facility.module.ts",
+          "hash": "17315662949627064171",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/typeorm",
+            "npm:@nestjs/bullmq",
+            "npm:ioredis"
+          ]
+        },
+        {
+          "file": "apps/back/src/facility/ingestion.processor.ts",
+          "hash": "947106959879999052",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/bullmq",
+            "npm:bullmq"
+          ]
+        },
+        {
+          "file": "apps/back/src/facility/ingestion.service.property.spec.ts",
+          "hash": "17040569399437804918",
+          "deps": [
+            "npm:fast-check"
+          ]
+        },
+        {
+          "file": "apps/back/src/facility/ingestion.service.spec.ts",
+          "hash": "7950028548152717968",
+          "deps": [
+            "npm:@nestjs/testing",
+            "npm:@nestjs/typeorm",
+            "npm:typeorm",
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "apps/back/src/facility/ingestion.service.ts",
+          "hash": "10914120988424806735",
+          "deps": [
+            "npm:@nestjs/common",
+            "npm:@nestjs/typeorm",
+            "npm:typeorm",
+            "npm:axios",
+            "npm:ioredis"
+          ]
+        },
+        {
+          "file": "apps/back/src/main.ts",
+          "hash": "13281699079943073866",
+          "deps": [
+            "npm:@nestjs/core"
+          ]
+        },
+        {
+          "file": "apps/back/src/migrations/1719000000000-CreateFacilitiesTable.ts",
+          "hash": "10885730200896613872",
+          "deps": [
+            "npm:typeorm"
+          ]
+        },
+        {
+          "file": "apps/back/tsconfig.json",
+          "hash": "18329529161346721971"
+        }
+      ]
+    }
+  },
+  "externalNodesHash": "826189160666934941"
+}

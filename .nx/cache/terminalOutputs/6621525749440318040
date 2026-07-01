@@ -1,0 +1,9 @@
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m front [39m[27m[0m [2mapps/front/src/features/food-truck-locator/[22m[1mFoodTruckLocator.spec.tsx[22m
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m front [39m[27m[0m [2mapps/front/src/features/food-truck-locator/components/[22m[1mResultCard.spec.tsx[22m
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m front [39m[27m[0m [2mapps/front/src/features/food-truck-locator/components/[22m[1mSearchInput.spec.tsx[22m
+
+[1mTest Suites: [22m[1m[32m3 passed[39m[22m, 3 total
+[1mTests:       [22m[1m[32m35 passed[39m[22m, 35 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0.257 s, estimated 1 s
+[2mRan all test suites[22m[2m matching [22m/F|o|o|d|T|r|u|c|k|L|o|c|a|t|o|r|.|s|p|e|c/i[2m.[22m

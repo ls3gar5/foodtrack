@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx test front --run-in-band",
+    "startTime": "2026-06-30T18:48:20.586Z",
+    "endTime": "2026-06-30T18:48:21.363Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "front:test",
+      "target": "test",
+      "projectName": "front",
+      "hash": "6415955582726290567",
+      "startTime": "2026-06-30T18:48:20.629Z",
+      "endTime": "2026-06-30T18:48:21.361Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

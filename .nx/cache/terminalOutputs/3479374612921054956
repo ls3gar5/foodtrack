@@ -1,0 +1,696 @@
+[1m[2mDetermining test suites to run...[22m[22m[999D[K
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mfacility.entity.spec.ts[22m
+
+[1mTest Suites: [22m0 of 3 total
+[1mTests:       [22m0 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:53 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 1/3 failed: Network error[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:55 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 2/3 failed: Network error[39m
+[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 3/3 failed: Network error[39m
+[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mCRITICAL: All retry attempts to fetch from SODA API have been exhausted. Proceeding without data.[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:53 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 1/3 failed: Timeout[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:53 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 1/3 failed: Timeout[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:55 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 2/3 failed: Connection refused[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:53 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 1/3 failed: Service unavailable[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:55 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 2/3 failed: Service unavailable[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 3/3 failed: Service unavailable[39m
+[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mCRITICAL: All retry attempts to fetch from SODA API have been exhausted. Proceeding without data.[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:53 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 1/3 failed: Service unavailable[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:55 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 2/3 failed: Service unavailable[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 3/3 failed: Service unavailable[39m
+[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mCRITICAL: All retry attempts to fetch from SODA API have been exhausted. Proceeding without data.[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:53 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mFailed to invalidate cache: Redis connection lost[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:53 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 1/3 failed: Network error[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:55 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 2/3 failed: Network error[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mSODA API fetch attempt 3/3 failed: Network error[39m
+[31m[Nest] 50876  - [39m06/30/2026, 3:05:59 PM [31m  ERROR[39m [38;5;3m[IngestionService] [39m[31mCRITICAL: All retry attempts to fetch from SODA API have been exhausted. Proceeding without data.[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m1 passed[39m[22m, 1 of 3 total
+[1mTests:       [22m[1m[32m2 passed[39m[22m, 2 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m2 passed[39m[22m, 2 of 3 total
+[1mTests:       [22m[1m[32m29 passed[39m[22m, 29 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_8UYO": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_T6E0JL32ADD": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_HLYBWUR": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_DTGU2": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_W54ZWOQ4I": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_DHR2PDXGZ6OF": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_ZOURLU8": latitude -102.63782719802609 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_7Y1H2Z0S3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_RUD7": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_BXGNNHPADZ": longitude -308.8799045827985 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_7VABFVGVN": latitude -111.3745892660125 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_X1XXC47KUX2M": longitude 251.79791365535453 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_PMXCP": latitude -133.32521579219645 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_U4VP1CH2": latitude 108.50680133745907 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_HKHT": longitude -211.36486616287868 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_T9IL": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_RL3ZC16": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_9IKTP": latitude -156.17410379781032 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_VJNYIWY": latitude -157.91901577078426 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_DE4U2": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_0H0XPLC12": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_BHKY2YZJ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_M6TIW4D": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_4LEVV": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_2H322M": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_XBDD3J4E": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_IQ8JSP": latitude -109.15929188251327 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_56OA6T0N3MR": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_6G55": latitude -93.6449568426322 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_XZS8P05M": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_NFGPEVB2O": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_JTO3HSIMW1E": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_BD435M": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_DYO1YFU0": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_QK2F": latitude 153.81601888898845 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_8PU0G": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_KL2V8USM": latitude 158.31814834908934 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_866XRMQQF": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_6MOS6R91QKCS": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_KSLXU": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_443ND9O3J": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_2SOLJLL6": longitude -283.43054580282234 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_1DGJUN18S": latitude -192.17848892769828 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_6EY4SGPY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_020O82FHPR": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_T6CHWR9V": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_O27HQAO0Y1J": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_COWVV67QFEG": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_TZDLYILW": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_8GIU": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_T9IN": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_DPZOM1R6Q": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_BYG6IGX": longitude -212.7603730294552 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_B5LRHY91IS5C": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_6I9X2": latitude 143.84235547982476 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_E87EZGM5N": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_8VOXL8SC": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_DQW4TXH42KL5": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_Z2N8EPU4S": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_ZGOFVU2": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_L5LM3R3XYF": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_ISYRX": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_OIGTKEIW": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_5NG0": latitude 126.27267382277601 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_10TWI0": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_65MADU": longitude 181.00000000000006 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_HJ0BCRT6P": longitude -267.8457726294766 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_I4SPTZKV": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_2V5HK5MXYGD": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_2KNC": latitude -134.46226941552752 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_GBGKZ7GMGGDW": latitude 103.96821899604903 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_MERDBP3ZE2T1": longitude 248.8955903300127 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_66LA5F2L1W7L": longitude 323.6817680008752 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_TDYARRC18470": latitude 120.40984203772533 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_JHOA": longitude -302.36213780261113 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_ZSI0": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_RZOO06SIRS": latitude 157.74489736313916 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_087SEHZ2E": latitude -91.00000000000007 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_SAUH6": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_BUQJRF": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_L3K1KEVXG": latitude -107.31924290262859 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_TR6KYUIXW": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_568O": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_YBEIEOCTTR1": latitude -198.00598943931996 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_HVJS504TR1S": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_RDVQ8D3G": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_PG7C3Y1JXB": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_DRIFE": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_9CZ6LRYPFGI": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_G527XJ8LPP1U": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_BK2ZT": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_A5X9J0D3K": latitude -115.66807228683682 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_UQQRFRZ5IS": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_OHL0RF": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_WF6QK5LCU": longitude -329.01914135176713 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_EBKYJFCS7AR": longitude -328.1161149640137 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_HG6CQ7": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_OZF4": latitude 97.02653996434293 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_RIFJ": latitude -164.55766592551564 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_QSZTXOV": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_150ZGNHYVJX7": longitude -181.00000000000034 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_WSMR4": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_I3X144VQ": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_AVVVJZ": latitude -139.0847834916942 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_LDS0HQU": latitude 91.00000000000013 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_LC5B7L3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_CS01B01": latitude -99.06876324343249 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_PZ54JJHG939": latitude -116.08397993154674 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_KFVM": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_SFAKS03A30MS": latitude -116.12268114162487 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_VXOC0J8XYK": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_D2TO01QKSBC": latitude 124.16022819079332 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_Z4KOSKSCUP4N": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_03AIGKDJ4": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_ZUUQI": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_PZ8P9": longitude 246.07270587319633 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_ZVHV5MY3": latitude -107.72951082702531 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_S0E3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_REE7L": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_VRI8CI": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_50OFR2X3": longitude 270.53098893518006 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_EM4PMUF722": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_58YRFUE": latitude 174.63679214466987 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_DXREFF24OXW6": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_ZCFPGA1S": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_5Y6N": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_YI9DM7": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_R69LV": latitude 133.2447158387697 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_Q339H4D2": longitude 182.80857858530706 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_0D3W": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_01J0BY7B": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_UCNE2TUHRQ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_PX9D54M": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_D3F29BH391R": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_51C5YZ6S": longitude 212.39070938029764 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_N7TWYGJ99": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_4QK4": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_0VL4069TVS": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_97T2JNB41": latitude 177.62858487351065 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_AUJZJ94I": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_NH8E2HI7R": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_4UP6LKK8Y3OJ": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_ZW680YK": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_9RBSLOFOC1": longitude -213.2091544332443 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_HR2JPO2E1ZG": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_GK0CL1": longitude 216.60334414955202 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_KO36V6QR": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_KQ1F4J": longitude 329.37709561846367 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_LQ1YLJRWBQ": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_CKSRWK3R6B": longitude 359.9999999999991 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_MKQTM3NI20G": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_AW5OPFYB9MY": latitude 91.00000000000018 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_UCKQEZ": longitude -200.29237345715924 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_07BP6GAP8C": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_H6JK1BPOJYB": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_YL47T": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_Y15VC": longitude -336.2394192364421 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_2RDUCTII": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_Z3V7M0": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_F3OK6MR": longitude 255.88376406575964 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_J4KDR6D": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_DZ359C2K5V": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_F715H12VT": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_3KJROC6B3G": latitude 195.80023225562496 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_H3OE7N": longitude 182.51356402748448 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_N17K": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_L6QD8PKJQPY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_NW11SZPQ8K0": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_5WA2P7G97Q": longitude -228.25732184391074 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_BIPI": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_AYDF": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_RSOKC7V": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_FDYI2306": latitude 135.95003644714424 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_2U1WF": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_IFM7A7SEI1DN": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_BG7Z": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_WZDITO": longitude -234.38133875416318 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_9BHLH": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_C2998ZU": longitude 209.52566923633398 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_SZOVA": longitude 317.3930994624602 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_8OMRB4EE70": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_BIXLM8VU9XP": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_WJKE4XS9ZQ13": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_GR2P": latitude -107.21362181215193 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_3LEXX": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_OV9PPJXPHRN4": longitude -246.3335096460946 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_C0XFSF": longitude -263.1291454896795 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_FTJYYJ": longitude 242.723081173671 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_F67QLYE": longitude -181.00000000000009 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_ANYIGN8": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_L4W7NAXIHZ": longitude -223.60232258506016 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_E8TF4TRSAG": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_0VTKEHZ4S06": longitude 322.43470006790824 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_AB5DSBIAEQ": latitude 128.7426826049412 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_QYH40ZY6L5": latitude 93.98170668688986 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_EG119": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_PC69Y": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_R22GG0W": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_YK2TJ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_ON3ODB4Y": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_7W3UVA3QA8B4": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_KCRKDKYW": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_VRFOVXST5C": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_4FZK": longitude 201.8021206300283 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_9J3R6TSE2": longitude 341.3685800263816 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_36BYQ2LT7ENV": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_Z5IJ": longitude 280.51210682859653 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_T1VQRQ4MW": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_TS7Q53": longitude 207.43550422595519 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_OEA85PPWLG": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_F7WH502T": latitude -162.33696116309468 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_03IMJJ8W": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_8H0GDAT": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_WJIZ": latitude -103.96558498283188 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_X3F2FX": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_SM8RRVIH1QQK": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_0LEWA5U69RF": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_NEF8NZ6AJX": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_9NXFJU8CI": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_MYKG48K": longitude 359.9999999999999 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_ZCVGUD6FW": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_5FWQP5N": latitude 106.19912146990691 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_FMCCSPK1DUYB": latitude -165.6381829012241 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_D3SV1FVKOK08": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_H1XSW27": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_QJFI": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_DPG3": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_W5KU6TEJ3SXM": longitude 203.90225153563827 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_LJTMP": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_CHES": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_IQJ1K29Y90": latitude -123.41091347555013 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_YTQ2ZL0ACYR": latitude 124.12071985339367 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_G61JV": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_PGY9IJKWDMFY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_OD9N6B": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_DMDR6": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_4O175": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_0KGPSJOD7YD3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_MP5YX8DKWME": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_C0ES6VOBN1": latitude -143.83190921564324 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_E2VD2ZJ": longitude 314.3098904685519 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_1G71C9CW": longitude -228.70679316571741 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_GZBR4B": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_K2E3RR": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_0VIK": longitude -185.56433704128003 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_ENBDSXJ1VKA": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_9UJRB2CD": latitude 153.27046508255125 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_DZ671": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_C1HXWMEXNI9": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_0DRHRL087OFT": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_31OGV": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_RCG5G": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_D9F2F6MI469R": longitude 181.00000000000026 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_IPPA1A": latitude 199.99999999999955 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_RKET0T9": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_9VGGRS7KEBN": latitude 125.81674268871733 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_F3UCG5": latitude -91.00000000000004 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_HPH9V3M": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_VG3PWCXMNTA6": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_0RO7MDO": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_KFWV4WX1BCGQ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_AKXW4J": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_JEDXRUSPE": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_4Y6VN29CH": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_871O": longitude -259.4205222604403 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_N9OO78J5IR1": longitude 181.00000000000023 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_2KJP67DHRY": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_AJ1F3C8O4": longitude 278.1772887776028 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_CF6VL": longitude 253.62789338857738 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_ICKDNGWZ": latitude -122.62193044179811 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_1SSOG": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_2APY": latitude -137.55773067506843 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_RE7HUDHT": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_QL3WQRV1BK4": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_Q6AZSUZ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_ES7UB87": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_97I07G59NFJH": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_O06JH1IG6": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_KBIUV558": latitude 183.1689795355642 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_6W1JSXX47Y": latitude -122.53881257073618 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_NJYABX1M0V": longitude 217.35984780273617 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_O26JJER7ONN": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_29GU": longitude -332.17883180519794 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_29FNP": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_7948": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_PAV0BXXS": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_NMYVESI3RNPJ": longitude 225.5621345039931 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_CDKN3W323G": latitude 189.23096146399797 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_XVOMPLWSYH06": latitude 128.7854146112777 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_WJHM0K2OF": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_JWO6Q0W4KV": latitude -197.3050567829307 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_65GOX": latitude 174.42435405177733 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_QQ3DVSN": longitude 280.40604042556015 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_BKDIQS6": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_BMQSS18970C": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_0N1HVMRGO4": latitude 106.51086917492933 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_KS25CJOK": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_3LME3GPS": latitude 99.25746664447028 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_SN7B1BTSVCH": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_VVXBO": longitude 330.7029266386696 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_4SIOVS": longitude -346.5220694159509 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_78J0T": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_MOPPGXHL": latitude 162.0712443720249 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_KOEOQD156": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_WT5AOCQ2": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_WE9ALQS4P": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_C7EAY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_3KE5": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_C3KANYRONZ3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_SIBEQHP": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_JV1LKVEY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_VUOS34JK3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_LFDKFY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_IWQPJMQMDLL": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_C10KZKD1": longitude 269.5228599431671 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_OYGOPM1HT": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_8T35J0N9NT": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_P212SB9AZ4I": longitude 185.3526445242711 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_VBZEB": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_T5ZZ31CT": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_VB9255SWIX7Z": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_2JDBCQ": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_RW6LW2U0": latitude -160.43498800256103 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_SL8MG": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_OZGJC": longitude 293.30729162771775 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_SJ1O5FO3FE": longitude -355.2418207342562 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_9HHNQEE804": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_3DQ954WJ": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_OWTL": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_NBMZG0GB6": latitude -91.0000000000002 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_BEH9TEHO": latitude 95.33506605289894 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_TIOKU": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_CLLB6LDUKX48": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_TVAS9IN5PUH": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_B8GINW7": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_WLHS63G9Q1": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_N2999NW6S3G": latitude -192.5170481786405 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_DIEUZEH604F": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_7HNOZ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_JTB26QG": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_M4345HRZOI": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_MEEKBJIHSB": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_O5UATRFBOCW": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_LXUR": longitude 211.1601408635969 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_1EB4": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_NDSHU0E": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_NUJADG": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_RO8332SM5DN": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_ZZPAWF8U996": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_DMMYDH6": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_NZDIAAB7RL": latitude -174.6821648799666 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_1ROBT": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_R2P8Q3K": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_BTR2HLP": latitude -200 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_ICKDR2SHFLH7": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_XJS4S51RC": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_1QNV": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_O4447WRU": longitude -341.76713987365326 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_VR65IW40M": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_ZOXU55": longitude 275.42077180780876 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_DDFP8": longitude 304.1557442805214 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_QBGNU3D7DU3A": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_ZVAXMCQMD": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_G3PQ0G6SRW7O": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_QUB8WZ": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_BI0KGQT74": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_6AGVD": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_UOMR83": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_6KWI2": longitude 335.8439251158202 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_SEXLI8": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_9RDSX5H8WJ0": latitude -96.7797821936721 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_YT1GGK": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_NUOS": longitude 312.082219140646 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_TBY2X": latitude -161.22726746631798 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_34SDWL": longitude 234.93276849666168 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_FBMY0OIBW": latitude -199.97360687688217 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_4QY4E8SP": longitude 359.9999999999999 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_3O5LBR9SSAPV": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_1T022W0F4P3": longitude 286.54848217078614 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_62SL4SAQO": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_L4V6": latitude -94.74745624458386 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_AUJV8Z3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_D36L10T": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_86FAA4": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_4YRZG": longitude 226.8423894596981 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_JPXM43": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_DCVILA": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_W1TY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_9OREK": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_GRWP8SSU": longitude -244.1080120361497 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_KB58RPC81S": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_IQI2D": longitude 237.4846602032846 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_NH50Q2P": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_X9M9XN7RDF2F": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_PO7Y633CMWRQ": longitude 282.5691042097442 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_SZUH49SN": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_W2X2Z82H": longitude -345.8860819443319 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_48120OO0AQX1": longitude -307.33788089853664 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_NCZND": latitude 172.15018423271016 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_CTHZVZBY3Q": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_QPJNXZBJG": longitude -181.0000000000001 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_7E9Q": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_6CKC6U9": latitude 182.47703618759078 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_6E28WNAT1I": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_CMF6": longitude 308.5366587152578 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_T1QBVT1ZS": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_TC6E": longitude -219.15542983926107 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_BHCQ1IHJJGT": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_19Z7": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_LO08F88": latitude 108.0592162657898 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_S25MR": latitude 119.21006537528066 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_XDZVQJ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_U7AI": latitude -107.85867006208369 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_7PAD7LOHC": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_DDJE3O0U04": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_0X1KJFBDO": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_ICX3OCDD": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_XHNMV2": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_D4CZ8RNE3ZU": longitude 319.881845220048 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_C45F8O91P": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_MM1ZM": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_YDOWPEV": latitude -192.02334418714636 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_MLJCFESE": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_9H8R8": latitude -114.1422253931989 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_UCCFV8": latitude -117.04799963902673 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_50E0HRX": latitude 142.48224662024498 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_U0970E3U": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_8LWIJGC1BXG": latitude 116.11657197876478 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_IADE": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_3X3BOSRLS": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_Q778WO5Z5D6": latitude -91 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_BHNIU8U": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_2P40E405K": latitude 153.34808357340165 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_7IM6FDIOT": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_8ATWEB0G": latitude 187.41111782681398 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_UK8NAGULA1PK": latitude -176.63405512379308 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_L2GL26VSD8": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_R4OM8RA": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_46KKO": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_95OGA8Q": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_40JO32": longitude 225.52903048230516 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_0H096HA7RS": longitude -212.55455317261885 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_0T79EB9WPL": longitude 315.66149136775164 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_10BOP1CDW2": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_SQB1P": longitude 304.51495183245163 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_LSNU0CCF": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_DAHEBNY1Q7YZ": latitude -149.04597061381668 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_8I2OQ": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_77SJ35OP": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_7XU75B8VUP": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_YVC6L25C": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_CGU6JZI5EOR": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_AU1FRDYMT2P": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_CS4QP": longitude -291.3537701852833 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_EGOYMCPK": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_05FNB": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_4KN7C7W1I3": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_FMTK9A": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_91QO0L88": latitude -158.76572181234366 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_16K5GKT": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_YLP58YS": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_8_2UZF2SH35": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_9_D4RC": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_0JBM": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_7APZSW": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_P0WBVVI0E2IU": longitude -251.49999438589185 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_A638": longitude 359.9999999999992 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_214C": latitude -172.1906455792896 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_4C9ZW01F": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_XPRUMS": latitude -91.00000000000007 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_7_KI58DD1BLMTJ": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_6MQKBZ": longitude -254.46261168748038 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_MHTAEQE": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_YTJ9GC2KE3SA": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_CK0KCREQP8": latitude -179.37948397719092 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_A5Q2L66X": latitude 117.46624052768668 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_TSCKPB0S96": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_EHSZEBI23DS": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_9MD08P": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_FKWJMVY": longitude 330.56599178381714 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_WG4FU": latitude -140.2994530577335 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_CST0I": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_BU4UH": longitude 329.8808498882721 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_2ZHURTT": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_0PBWQ5PTUTRW": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_NVUUM": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_OW16A5LOU": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_OIDJEKY": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_C6TQQ": longitude 245.540557777293 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_UGXN": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_6_S81IZU": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_9RE73": latitude 185.64960247947758 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_7O86SZU1LF7": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_9W7CDOIH": latitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_DYO92N3W0SVQ": latitude 126.32945403494597 is out of range (-90 to 90)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_1_FPOU": longitude 258.2134597793817 is out of range (-180 to 180)[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_2_4SS3TC6EO": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_3_OYG2Z": longitude is zero[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_4_SEY82": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_5_F89ML": latitude or longitude is not a valid number[39m
+[33m[Nest] 50875  - [39m06/30/2026, 3:05:53 PM [33m   WARN[39m [38;5;3m[IngestionService] [39m[33mSkipping record with permit "INVALID_0_42PB375LZONN": latitude or longitude is not a valid number[39m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m2 passed[39m[22m, 2 of 3 total
+[1mTests:       [22m[1m[32m29 passed[39m[22m, 29 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+
+[0m[7m[33m[1m RUNS [22m[39m[27m[0m [0m[7m[37m back [39m[27m[0m [2mapps/back/src/facility/[22m[1mingestion.service.property.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m2 passed[39m[22m, 2 of 3 total
+[1mTests:       [22m[1m[32m29 passed[39m[22m, 29 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0 s, estimated 2 s[K[1A[K[1A[K[1A[K[1A[K[1A[K[1A[999D[K
+[1mTest Suites: [22m[1m[32m3 passed[39m[22m, 3 total
+[1mTests:       [22m[1m[32m30 passed[39m[22m, 30 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        1.059 s, estimated 2 s
+[2mRan all test suites[22m[2m matching [22m/i|n|g|e|s|t|i|o|n|.|s|e|r|v|i|c|e|.|p|r|o|p|e|r|t|y|.|s|p|e|c/i[2m.[22m

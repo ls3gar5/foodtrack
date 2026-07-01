@@ -1,0 +1,88 @@
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/[22m[1mfacility-cache.service.spec.ts[22m
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/dto/[22m[1msearch-facilities.dto.spec.ts[22m
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/[22m[1mfacility.service.spec.ts[22m
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/[22m[1mfacility.controller.spec.ts[22m
+[0m[7m[1m[31m FAIL [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/[22m[1mfacility.property.spec.ts[22m
+[1m[31m  [1m● [22m[1mFacility Property Tests — Validation and Caching (Properties 7-10, 14-15) › Property 8: Invalid food type filter rejected with 400 › should reject food type where all terms are shorter than 2 characters[39m[22m
+
+    TypeError: _fastcheck.char is not a function
+[2m[22m
+[2m    [0m [90m 102 |[39m         fc[33m.[39masyncProperty([22m
+[2m     [90m 103 |[39m           fc[33m.[39marray([22m
+[2m    [31m[1m>[22m[2m[39m[90m 104 |[39m             fc[33m.[39mstringOf(fc[33m.[39mchar()[33m,[39m { minLength[33m:[39m [35m1[39m[33m,[39m maxLength[33m:[39m [35m1[39m })[33m,[39m[22m
+[2m     [90m     |[39m                            [31m[1m^[22m[2m[39m[22m
+[2m     [90m 105 |[39m             { minLength[33m:[39m [35m1[39m[33m,[39m maxLength[33m:[39m [35m5[39m }[33m,[39m[22m
+[2m     [90m 106 |[39m           )[33m,[39m[22m
+[2m     [90m 107 |[39m           [36masync[39m (shortTerms) [33m=>[39m {[0m[22m
+[2m[22m
+[2m      [2mat Object.char ([22m[2m[0m[36msrc/facility/facility.property.spec.ts[39m[0m[2m:104:28)[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mFacility Property Tests — Validation and Caching (Properties 7-10, 14-15) › Property 10: Facility detail includes all specified fields, absent as null › should return all required fields with null for absent data[39m[22m
+
+    Property failed after 14 tests
+    { seed: 1082195083, path: "13:0:0:0:0:0:0:0:0", endOnFailure: true }
+    Counterexample: [{"permitId":" ","applicant":" ","facilityType":"Truck","address":" ","foodItems":null,"latitude":0,"longitude":0,"permitStatus":"EXPIRED","createdAt":new Date("1970-01-01T00:00:00.000Z"),"updatedAt":new Date("1970-01-01T00:00:00.000Z")}]
+    Shrunk 8 time(s)
+
+    Hint: Enable verbose mode in order to have the list of all failing values encountered during the run
+[2m[22m
+[2m      [2mat buildError ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:2456:16)[22m[2m[22m
+[2m      [2mat asyncThrowIfFailed ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:2468:8)[22m[2m[22m
+
+    Cause:
+    BadRequestException: Permit identifier must not be empty
+[2m[22m
+[2m    [0m [90m 180 |[39m   )[33m:[39m [33mPromise[39m[33m<[39m[33mFacilityDetailResponseDto[39m[33m>[39m {[22m
+[2m     [90m 181 |[39m     [36mif[39m ([33m![39mpermitId [33m||[39m permitId[33m.[39mtrim()[33m.[39mlength [33m===[39m [35m0[39m) {[22m
+[2m    [31m[1m>[22m[2m[39m[90m 182 |[39m       [36mthrow[39m [36mnew[39m [33mBadRequestException[39m([32m'Permit identifier must not be empty'[39m)[22m
+[2m     [90m     |[39m             [31m[1m^[22m[2m[39m[22m
+[2m     [90m 183 |[39m     }[22m
+[2m     [90m 184 |[39m[22m
+[2m     [90m 185 |[39m     [36mconst[39m facility [33m=[39m [36mawait[39m [36mthis[39m[33m.[39mfacilityService[33m.[39mfindByPermitId(permitId)[0m[22m
+[2m[22m
+[2m      [2mat FacilityController.findByPermitId ([22m[2msrc/facility/facility.controller.ts[2m:182:13)[22m[2m[22m
+[2m      [2mat findByPermitId ([22m[2m[0m[36msrc/facility/facility.property.spec.ts[39m[0m[2m:258:45)[22m[2m[22m
+[2m      [2mat AsyncProperty.predicate ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:1276:104)[22m[2m[22m
+[2m      [2mat AsyncProperty.run ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:1212:30)[22m[2m[22m
+[2m      [2mat asyncRunIt ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:2510:30)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/facility/facility.property.spec.ts[39m[0m[2m:227:7)[22m[2m[22m
+
+[1m[31m  [1m● [22m[1mFacility Property Tests — Validation and Caching (Properties 7-10, 14-15) › Property 14: Cache key normalization consistent for nearby coordinates › should produce identical keys for coordinates differing only beyond 4th decimal place[39m[22m
+
+    Property failed after 6 tests
+    { seed: -1794610778, path: "5:0:1:1:1:1", endOnFailure: true }
+    Counterexample: [0,-5e-324,100,0.000001,0.000001]
+    Shrunk 5 time(s)
+
+    Hint: Enable verbose mode in order to have the list of all failing values encountered during the run
+[2m[22m
+[2m      [2mat buildError ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:2456:16)[22m[2m[22m
+[2m      [2mat asyncThrowIfFailed ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:2468:8)[22m[2m[22m
+
+    Cause:
+    [2mexpect([22m[31mreceived[39m[2m).[22mtoBe[2m([22m[32mexpected[39m[2m) // Object.is equality[22m
+
+    Expected: [32m"food-truck:search:0.0000:0.0000:100:none:none"[39m
+    Received: [31m"food-truck:search:0.0000:[7m-[27m0.0000:100:none:none"[39m
+[2m[22m
+[2m    [0m [90m 344 |[39m             [36mconst[39m key2 [33m=[39m cacheService[33m.[39mgenerateKey(params2)[22m
+[2m     [90m 345 |[39m[22m
+[2m    [31m[1m>[22m[2m[39m[90m 346 |[39m             expect(key1)[33m.[39mtoBe(key2)[22m
+[2m     [90m     |[39m                          [31m[1m^[22m[2m[39m[22m
+[2m     [90m 347 |[39m           }[33m,[39m[22m
+[2m     [90m 348 |[39m         )[33m,[39m[22m
+[2m     [90m 349 |[39m         { numRuns[33m:[39m [35m100[39m }[33m,[39m[0m[22m
+[2m[22m
+[2m      [2mat toBe ([22m[2m[0m[36msrc/facility/facility.property.spec.ts[39m[0m[2m:346:26)[22m[2m[22m
+[2m      [2mat AsyncProperty.predicate ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:1276:104)[22m[2m[22m
+[2m      [2mat AsyncProperty.run ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:1212:30)[22m[2m[22m
+[2m      [2mat asyncRunIt ([22m[2m../../node_modules/fast-check/lib/cjs/fast-check.js[2m:2510:30)[22m[2m[22m
+[2m      [2mat Object.<anonymous> ([22m[2m[0m[36msrc/facility/facility.property.spec.ts[39m[0m[2m:324:7)[22m[2m[22m
+
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/[22m[1mfacility.service.property.spec.ts[22m
+
+[1mTest Suites: [22m[1m[31m1 failed[39m[22m, [1m[32m5 passed[39m[22m, 6 total
+[1mTests:       [22m[1m[31m3 failed[39m[22m, [1m[32m63 passed[39m[22m, 66 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        1.551 s, estimated 2 s
+[2mRan all test suites[22m[2m matching [22m/f|a|c|i|l|i|t|y|\|.|s|e|r|v|i|c|e|\|.|p|r|o|p|e|r|t|y|\|.|s|p|e|c/i[2m.[22m

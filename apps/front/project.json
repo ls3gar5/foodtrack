@@ -1,0 +1,12 @@
+{
+  "name": "front",
+  "sourceRoot": "apps/front/src",
+  "targets": {
+    "test": {
+      "executor": "@nx/jest:jest",
+      "options": {
+        "jestConfig": "apps/front/jest.config.js"
+      }
+    }
+  }
+}

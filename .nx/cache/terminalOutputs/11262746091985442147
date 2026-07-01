@@ -1,0 +1,8 @@
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/[22m[1mfacility-cache.service.spec.ts[22m
+[0m[7m[1m[32m PASS [39m[22m[27m[0m [0m[7m[37m bff [39m[27m[0m [2mapps/bff/src/facility/dto/[22m[1msearch-facilities.dto.spec.ts[22m
+
+[1mTest Suites: [22m[1m[32m2 passed[39m[22m, 2 total
+[1mTests:       [22m[1m[32m32 passed[39m[22m, 32 total
+[1mSnapshots:   [22m0 total
+[1mTime:[22m        0.726 s, estimated 1 s
+[2mRan all test suites[22m[2m matching [22m/f|a|c|i|l|i|t|y|\/|d|t|o|\/|s|e|a|r|c|h|-|f|a|c|i|l|i|t|i|e|s/i[2m.[22m

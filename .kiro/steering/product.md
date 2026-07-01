@@ -17,7 +17,7 @@ The UX/UI is totally up to you. If you like, get creative and add additional
 features a user might find useful!
 
 ## Functional Spec
-Create a service that tells the user what types of food trucks might be found
+Create a service (web) that tells the user what types of food trucks might be found
 near a specific location on a map
 
 The data is available on
